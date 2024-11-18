@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|c:\\users\\admin\\desktop\\arwa\\arwaa\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|solutionrelative:page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|c:\\users\\admin\\desktop\\arwa\\arwaa\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|solutionrelative:page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|c:\\users\\admin\\desktop\\arwa\\arwaa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|c:\\users\\admin\\desktop\\arwa\\arwaa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DFFCAE1-F0C4-4234-9AB0-44FF1CF7C297}|arwaa.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,6 +31,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\Page2.xaml",
+              "RelativeDocumentMoniker": "Page2.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\Page2.xaml",
+              "RelativeToolTip": "Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T13:09:38.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Page1.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\Page1.xaml",
               "RelativeDocumentMoniker": "Page1.xaml",
@@ -38,19 +54,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-18T13:00:07.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:00:07.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\arwa\\arwaa\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -58,8 +73,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:00:05.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:00:05.495Z"
             }
           ]
         }
